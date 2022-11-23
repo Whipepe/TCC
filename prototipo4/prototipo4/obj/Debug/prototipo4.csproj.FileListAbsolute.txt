@@ -1,0 +1,51 @@
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\bin\Debug\prototipo4.exe.config
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\bin\Debug\prototipo4.exe
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\bin\Debug\prototipo4.pdb
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.AssemblyReference.cache
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Form1.resources
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.PagInicial.resources
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Properties.Resources.resources
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.GenerateResource.cache
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.CoreCompileInputs.cache
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.exe
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.pdb
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.AreaExe.resources
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Quadrado.resources
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Trapézio.resources
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Circunferência.resources
+C:\Users\USER\source\repos\prototipo4\prototipo4\bin\Debug\prototipo4.exe.config
+C:\Users\USER\source\repos\prototipo4\prototipo4\bin\Debug\prototipo4.exe
+C:\Users\USER\source\repos\prototipo4\prototipo4\bin\Debug\prototipo4.pdb
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.AreaExe.resources
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Circunferência.resources
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Form1.resources
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.PagInicial.resources
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Properties.Resources.resources
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Quadrado.resources
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Trapézio.resources
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.exe
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.pdb
+C:\Users\USER\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Triângulo.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\bin\Debug\prototipo4.exe.config
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\bin\Debug\prototipo4.exe
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\bin\Debug\prototipo4.pdb
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.AssemblyReference.cache
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.SuggestedBindingRedirects.cache
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.AreaExe.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.Circunferência.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.Form1.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.PagInicial.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.Properties.Resources.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.Quadrado.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.Trapézio.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.Triângulo.resources
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.GenerateResource.cache
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.csproj.CoreCompileInputs.cache
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.exe
+F:\TCC - Felipe - 2022\prototipo4\prototipo4\obj\Debug\prototipo4.pdb
+C:\Users\Usuário\source\repos\prototipo4\prototipo4\obj\Debug\prototipo4.Triângulo.resources
